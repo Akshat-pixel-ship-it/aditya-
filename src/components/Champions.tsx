@@ -76,6 +76,18 @@ const Champions = () => {
         ],
       },
     },
+    {
+      id: 5,
+      type: "video",
+      embedCode:
+        '<div style="padding:56.25% 0 0 0;position:relative;"><iframe src="https://www.youtube.com/embed/bWkOAvZGIzk?autoplay=1&loop=1&mute=1&playlist=bWkOAvZGIzk" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" style="position:absolute;top:0;left:0;width:100%;height:100%;" title="Jai Prakash Naudiyal Testimonial"></iframe></div>',
+      alt: "Jai Prakash Naudiyal testimonial video",
+      review: {
+        text: "Aditya wasn’t my usual strength trainer, but honestly, working with him has been a game-changer. He has this way of making every workout meaningful — not just telling you what to do, but explaining why you’re doing it and making sure you’re getting it right. What I like most is how approachable and genuinely helpful he is. He pushes you when you need it, encourages you when it gets tough, and makes the whole process feel motivating instead of overwhelming. Really glad I got the chance to train with him.",
+        name: "Jai Prakash Naudiyal",
+        role: "Fitness Enthusiast",
+      },
+    },
   ];
 
   return (
