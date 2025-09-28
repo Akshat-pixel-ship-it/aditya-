@@ -60,27 +60,20 @@ const Champions = () => {
       src: "https://i.imgur.com/N6N2HUF.jpeg",
       alt: "Mahika Subramanian - Squash Athlete",
       review: {
-        text: "Working with Aditya as my coach has been amazing! He’s helped me stay motivated, challenge myself and I’ve seen noticeable improvements in both my strength and fitness. I really enjoyed the variety and challenges he brought to every session. He always ensured my technique is correct to avoid any sort of injuries and he’s always set up and ready to go with a planned routine. I thoroughly enjoyed working out with him and truly appreciate all the encouragement and expertise he’s shared!",
-        name: "Neha Shetty",
+        text: "I still remember the 1st day Mahika came to train under you for fitness. She and I both were sceptical. She was apprehensive and worried as to what would be expected from her. At the end of the session, she had a big smile on her face. She told me that she enjoyed this session thoroughly and I never had to coax her to go for fitness. She would be eager to join that session and such was the impact you and your techniques had on her.",
+        name: "Mahika Subramanian",
         role: "Under-13 Squash Champion",
+        achievements: [
+          "47th Maharashtra State Open: 9th Position/32 girls in Under-13 category",
+          "Matunga Gymkhana Open: 8th Position in Under-13 category",
+          "Dunlop Maharashtra State Closed Open: 3rd position",
+          "SFA Games: 3rd overall and reached finals of Matunga Club Open",
         ],
         improvements: [
           "Agility - improved reaction time to respond",
           "Speed - ability to reach the ball faster",
           "Mental Strength - eagerness to match skill to fitness",
         ],
-      },
-    },
-    {
-      id: 5,
-      type: "video",
-      embedCode:
-        '<div style="padding:56.25% 0 0 0;position:relative;"><iframe src="https://www.youtube.com/embed/bWkOAvZGIzk?autoplay=1&loop=1&mute=1&playlist=bWkOAvZGIzk" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" style="position:absolute;top:0;left:0;width:100%;height:100%;" title="Jai Prakash Naudiyal Testimonial"></iframe></div>',
-      alt: "Jai Prakash Naudiyal testimonial video",
-      review: {
-        text: "Aditya wasn’t my usual strength trainer, but honestly, working with him has been a game-changer. He has this way of making every workout meaningful — not just telling you what to do, but explaining why you’re doing it and making sure you’re getting it right. What I like most is how approachable and genuinely helpful he is. He pushes you when you need it, encourages you when it gets tough, and makes the whole process feel motivating instead of overwhelming. Really glad I got the chance to train with him.",
-        name: "Jai Prakash Naudiyal",
-        role: "Fitness Enthusiast",
       },
     },
   ];
