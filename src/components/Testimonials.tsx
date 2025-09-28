@@ -44,7 +44,7 @@ const Testimonials = () => {
       title: "Fitness Transformation",
       image: "/images/testimonials/WhatsApp Image 2025-09-01 at 12.52.35_77817297.jpg",
       rating: 5,
-      text: "Working with Adi has been life-changing! His personalized approach and constant motivation helped me build confidence both in and out of the gym. The nutrition guidance was exactly what I needed to fuel my workouts and see real results."
+      text: "Working with Aditya as my coach has been amazing! He's helped me stay motivated, challenge myself and I've seen noticeable improvements in both my strength and fitness. I really enjoyed the variety and challenges he brought to every session. He always ensured my technique is correct to avoid any sort of injuries and he's always set up and ready to go with a planned routine. I thoroughly enjoyed working out with him and truly appreciate all the encouragement and expertise he's shared!"
     }
   ];
 
