@@ -1,5 +1,5 @@
 import React from 'react';
-import { Mail, Phone, MapPin, Instagram, Youtube, Facebook } from 'lucide-react';
+import { Mail, Phone, MapPin, Instagram, Youtube } from 'lucide-react';
 
 const Footer = () => {
   return (
@@ -43,12 +43,6 @@ const Footer = () => {
                 className="w-10 h-10 bg-yellow-500/20 rounded-full flex items-center justify-center text-yellow-400 hover:bg-yellow-500 hover:text-black transition-all duration-300"
               >
                 <Youtube className="w-5 h-5" />
-              </a>
-              <a
-                href="#"
-                className="w-10 h-10 bg-yellow-500/20 rounded-full flex items-center justify-center text-yellow-400 hover:bg-yellow-500 hover:text-black transition-all duration-300"
-              >
-                <Facebook className="w-5 h-5" />
               </a>
             </div>
           </div>
