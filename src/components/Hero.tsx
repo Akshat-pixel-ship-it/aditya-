@@ -124,11 +124,11 @@ const Hero = () => {
             transition={{ duration: 1, delay: 3 }}
           >
             <motion.button
-              className="group relative bg-[#C8A766] text-black px-8 py-4 rounded-xl font-bold text-lg overflow-hidden"
+              className="group relative bg-gradient-to-r from-yellow-400 to-orange-500 text-black px-8 py-4 rounded-xl font-bold text-lg overflow-hidden"
               whileHover={{ scale: 1.05 }}
               whileTap={{ scale: 0.95 }}
               style={{
-                boxShadow: '0 0 50px rgba(212, 175, 55, 0.4), inset 0 1px 0 rgba(255, 255, 255, 0.2)'
+                boxShadow: '0 0 50px rgba(250, 204, 21, 0.4), inset 0 1px 0 rgba(255, 255, 255, 0.2)'
               }}
               onClick={() =>
                 window.open('https://calendly.com/championlifestyle-yash/30min?month=2025-07', '_blank')
